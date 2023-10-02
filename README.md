@@ -22,10 +22,6 @@ Left Arrow: Move tiles to the left.
 Right Arrow: Move tiles to the right.
 Gameplay: The game starts with two random tiles of either 2 or 4 on the grid. Your objective is to combine tiles with the same number by moving them in the desired direction. After each move, a new tile will appear on the board with a value of 2 or 4. Try to combine tiles strategically to reach the tile with the number 2048.
 
-Winning: You win the game when you successfully create a tile with the number 2048. However, the game doesn't stop there, and you can continue playing to achieve a higher score.
-
-Scoring: Your score is displayed at the top of the game screen, and it increases every time you combine tiles. Try to achieve the highest score possible!
-
 Game Over: The game ends when there are no valid moves left (i.e., you can't merge any more tiles or move any further). At this point, your final score will be displayed, and you can choose to restart the game and try to beat your previous score.
 
 Restart: To restart the game at any time, simply refresh the page in your web browser.
